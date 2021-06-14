@@ -1,0 +1,16 @@
+PODS:
+  - OmniVirtSDK (1.9.4)
+
+DEPENDENCIES:
+  - OmniVirtSDK
+
+SPEC REPOS:
+  trunk:
+    - OmniVirtSDK
+
+SPEC CHECKSUMS:
+  OmniVirtSDK: af7f30c4b2be3f59d33ea72ff0ea982b03bae924
+
+PODFILE CHECKSUM: 5527fbf788ad15b25fc952c4d97b534fe1bfb4e8
+
+COCOAPODS: 1.10.1
